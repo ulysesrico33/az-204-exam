@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\urico\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\my_repo\\az-204-exam\\az-204-exam.csproj",
+      "projectName": "az-204-exam",
+      "projectPath": "C:\\my_repo\\az-204-exam\\az-204-exam.csproj",
+      "packagesPath": "C:\\Users\\urico\\.nuget\\packages\\",
+      "outputPath": "C:\\my_repo\\az-204-exam\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\urico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://avidxchange.pkgs.visualstudio.com/_packaging/common-libraries/nuget/v3/index.json": {},
+        "https://nexus.avidxchange.com/repository/nuget-all/": {},
+        "https://nexus.avidxchange.com/repository/nuget-shared-services": {},
+        "https://pkgs.dev.azure.com/avidxchange/_packaging/0bcaeb75-5fd0-7ee9-9434-ec10402fab37/nuget/v2": {},
+        "https://pkgs.dev.azure.com/avidxchange/_packaging/common-libraries/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/avidxchange/aca7d937-b53b-4c82-b578-b74a6b69165e/_packaging/strongroom-libraries/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
