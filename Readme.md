@@ -5,13 +5,6 @@ Jan 1st, 2023
 - Preparation for AZ 204 certificatione exam
 - This repo contains links to other repos as well
 
-![image](https://user-images.githubusercontent.com/16261895/210415556-c76b161f-d9b6-4839-8368-1b97bc33f00d.png)
-
-![image](https://user-images.githubusercontent.com/16261895/210417435-14bc9f32-8621-4e05-844a-6da889566623.png)
-
-
-
-
 # My links
 
 - This git is to prepare for AZ 204, I will add here several coding excercises. I will list them here :
