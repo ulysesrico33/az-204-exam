@@ -13,6 +13,7 @@ Jan 1st, 2023
    - Linkedin course : Prepare for the Developing Solutions in Microsoft Azure (AZ-204) Certification Exam
       - [Useful Resources.pdf](https://github.com/ulysesrico33/az-204-exam/files/10339045/Useful.Resources.pdf)
    - https://www.examtopics.com/exams/microsoft/az-204/
+   - Udemy simulation exams
    
 
    
