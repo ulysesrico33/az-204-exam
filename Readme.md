@@ -27,5 +27,7 @@ Jan 1st, 2023
 - https://github.com/ulysesrico33/az-204-exam-webapp.git
 
 
-See more in wiki
+# See wiki
+
+For more detailed info go to wiki in this repo
 
