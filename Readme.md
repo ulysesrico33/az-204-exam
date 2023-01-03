@@ -25,3 +25,6 @@ Jan 1st, 2023
 
 For more detailed info go to wiki in this repo
 
+
+Back to [Git azure repos](https://github.com/ulysesrico33/myAzureCertifications.git)
+
