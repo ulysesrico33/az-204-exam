@@ -9,7 +9,7 @@ Jan 1st, 2023
 
 - This git is to prepare for AZ 204, I will add here several coding excercises. I will list them here :
    - [AZ 204 Youtube 1](https://youtu.be/anef67apIEA)
-   - ...
+   - [Azure CLI](https://k21academy.com/microsoft-azure/azure-cli-commands/)
    
 # Repos to support AZ 204 exam
 
