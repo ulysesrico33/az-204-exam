@@ -20,9 +20,9 @@ Jan 1st, 2023
    
 
    
-# My Repos to support AZ 204 exam
+# Practice repos for AZ 204 exam
 
-- https://github.com/ulysesrico33/az-204-exam-webapp.git
+- [Git - Az 204 webapp](https://github.com/ulysesrico33/az-204-exam-webapp.git)
 
 
 # See wiki
