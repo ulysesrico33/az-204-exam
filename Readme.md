@@ -27,7 +27,7 @@ Jan 1st, 2023
 
 # See wiki
 
-For more detailed info go to wiki in this repo
+- For more detailed info go to [wiki](https://github.com/ulysesrico33/az-204-exam/wiki) in this repo
 
 
 Back to [Git azure repos](https://github.com/ulysesrico33/myAzureCertifications.git)
