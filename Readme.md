@@ -10,6 +10,7 @@ Jan 1st, 2023
 - This git is to prepare for AZ 204, I will add here several coding excercises. I will list them here :
    - [AZ 204 Youtube list](https://youtube.com/playlist?list=PLcE6iQkoRxhZWxtCVVNdxgwkZZ14SHRGN)
    - [Azure CLI](https://k21academy.com/microsoft-azure/azure-cli-commands/)
+   - [Azure powershell commands](https://learn.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-9.2.0)
    - Linkedin course : Prepare for the Developing Solutions in Microsoft Azure (AZ-204) Certification Exam
       - [Useful Resources.pdf](https://github.com/ulysesrico33/az-204-exam/files/10339045/Useful.Resources.pdf)
    - https://www.examtopics.com/exams/microsoft/az-204/
