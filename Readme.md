@@ -13,7 +13,7 @@ Jan 1st, 2023
    - [Azure powershell commands](https://learn.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-9.2.0)
    - Linkedin course : Prepare for the Developing Solutions in Microsoft Azure (AZ-204) Certification Exam
       - [Useful Resources.pdf](https://github.com/ulysesrico33/az-204-exam/files/10339045/Useful.Resources.pdf)
-   - https://www.examtopics.com/exams/microsoft/az-204/
+   - [Exam topics > Microsoft AZ-204 Exam](https://www.examtopics.com/exams/microsoft/az-204/)
    - Udemy simulation exams
    - [AZ-204_StudyGuide_ENU_v401_6.1.pdf](https://github.com/ulysesrico33/az-204-exam/files/10341024/AZ-204_StudyGuide_ENU_v401_6.1.pdf)
 
