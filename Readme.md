@@ -23,6 +23,14 @@ Jan 1st, 2023
 - [Git - Az 204 / Webapp , App Service](https://github.com/ulysesrico33/az-204-exam-webapp.git)
 - [Git - Az 204 / Azure Functions](https://github.com/ulysesrico33/az-204-exam-azurefunctions.git)
 
+# Sections
+
+- Develop Azure compute solutions (25-30%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (20-25%)
+- Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+- Connect to and consume Azure services and third-party services (15-20%)
+
 
 # See wiki
 
