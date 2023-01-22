@@ -16,6 +16,7 @@ Jan 1st, 2023
    - [Exam topics > Microsoft AZ-204 Exam](https://www.examtopics.com/exams/microsoft/az-204/)
    - Udemy simulation exams
    - [AZ-204_StudyGuide_ENU_v401_6.1.pdf](https://github.com/ulysesrico33/az-204-exam/files/10341024/AZ-204_StudyGuide_ENU_v401_6.1.pdf)
+   - [Youtube > Azure Container Instances](https://www.youtube.com/watch?v=jAWLQFi4USk)
 
    
 
