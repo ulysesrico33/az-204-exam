@@ -27,11 +27,11 @@ Jan 1st, 2023
 
 # Sections
 
-- Develop Azure compute solutions (25-30%)
-- Develop for Azure storage (15-20%)
-- Implement Azure security (20-25%)
-- Monitor, troubleshoot, and optimize Azure solutions (15-20%)
-- Connect to and consume Azure services and third-party services (15-20%)
+- **Develop Azure compute solutions** (25-30%)
+- **Develop for Azure storage** (15-20%)
+- **Implement Azure security** (20-25%)
+- **Monitor, troubleshoot, and optimize Azure solutions** (15-20%)
+- **Connect to and consume Azure services and third-party services** (15-20%)
 
 
 # See wiki
