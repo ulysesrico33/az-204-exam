@@ -19,6 +19,7 @@ Jan 1st, 2023
    - [AZ-204_StudyGuide_ENU_v401_6.1.pdf](https://github.com/ulysesrico33/az-204-exam/files/10341024/AZ-204_StudyGuide_ENU_v401_6.1.pdf)
    - [My docker repos](https://hub.docker.com/repositories/ulysesricodocker)
 - UST preparation in AZ 204 : [Azure Developer Associate AZ 204.pdf](https://github.com/ulysesrico33/az-204-exam/files/10964235/Azure.Developer.Associate.AZ.204.pdf)
+- [Microsoft Lear collection for AZ 204](https://learn.microsoft.com/en-us/users/ulysesricoreaustmx-7620/collections/2d30cn8rwge0ye)
 
 
    
