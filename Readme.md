@@ -18,6 +18,8 @@ Jan 1st, 2023
    - Udemy simulation exams
    - [AZ-204_StudyGuide_ENU_v401_6.1.pdf](https://github.com/ulysesrico33/az-204-exam/files/10341024/AZ-204_StudyGuide_ENU_v401_6.1.pdf)
    - [My docker repos](https://hub.docker.com/repositories/ulysesricodocker)
+- UST preparation in AZ 204 : [Azure Developer Associate AZ 204.pdf](https://github.com/ulysesrico33/az-204-exam/files/10964235/Azure.Developer.Associate.AZ.204.pdf)
+
 
    
 # Practice repos for AZ 204 exam
